@@ -12,3 +12,5 @@ while True:
 
     env.run(100)
     print(f'The last run was from {my.move.sdate.strftime("%m-%d-%Y")}')
+
+    print(f'I really like version control')

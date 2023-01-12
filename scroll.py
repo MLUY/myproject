@@ -14,3 +14,5 @@ while True:
     print(f'The last run was from {my.move.sdate.strftime("%m-%d-%Y")}')
 
     print(f'I really like version control')
+
+    print('dont i need to add first?')
